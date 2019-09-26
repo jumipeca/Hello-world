@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hello-world"
 version = "0.1.0"
-description = ""
+description = "Train with Git's and GitHub"
 authors = ["jumipeca"]
 
 [tool.poetry.dependencies]
