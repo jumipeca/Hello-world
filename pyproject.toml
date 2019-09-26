@@ -2,7 +2,7 @@
 name = "hello-world"
 version = "0.1.0"
 description = "Train with Git's and GitHub"
-authors = ["Your Name <you@example.com>"]
+authors = ["jumipeca"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
