@@ -7,4 +7,4 @@ def sum_mul():
     z = Hello_w0.sum(a,b) + (c * d)
     assert z == 37
 
-print(sum_mul(5,6))
+print(sum_mul())
